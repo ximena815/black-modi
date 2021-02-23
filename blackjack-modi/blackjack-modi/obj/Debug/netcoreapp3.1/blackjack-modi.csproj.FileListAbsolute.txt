@@ -1,0 +1,13 @@
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\bin\Debug\netcoreapp3.1\blackjack-modi.exe
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\bin\Debug\netcoreapp3.1\blackjack-modi.deps.json
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\bin\Debug\netcoreapp3.1\blackjack-modi.runtimeconfig.json
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\bin\Debug\netcoreapp3.1\blackjack-modi.runtimeconfig.dev.json
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\bin\Debug\netcoreapp3.1\blackjack-modi.dll
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\bin\Debug\netcoreapp3.1\blackjack-modi.pdb
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\obj\Debug\netcoreapp3.1\blackjack-modi.csprojAssemblyReference.cache
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\obj\Debug\netcoreapp3.1\blackjack-modi.AssemblyInfoInputs.cache
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\obj\Debug\netcoreapp3.1\blackjack-modi.AssemblyInfo.cs
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\obj\Debug\netcoreapp3.1\blackjack-modi.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\obj\Debug\netcoreapp3.1\blackjack-modi.dll
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\obj\Debug\netcoreapp3.1\blackjack-modi.pdb
+D:\Users\User\Documents\tutoria\blackjack-modi\blackjack-modi\obj\Debug\netcoreapp3.1\blackjack-modi.genruntimeconfig.cache
